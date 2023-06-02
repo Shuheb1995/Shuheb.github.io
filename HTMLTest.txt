@@ -1,0 +1,158 @@
+1. Basic Structure of HTML
+   <!DOCTYPE>
+   <html>
+   <head>
+   <title></title>
+   </head>
+   <body></body>
+   </html>
+
+2. What is Element
+   Element is Starting tag to end tag.
+
+3. What is Attributes
+   provide addition information in html elements
+
+4. What is Block Level Element and inline element
+   block level elements prints in same block
+   inline element prints in same line
+
+5. difference between div and span
+   div is a tag used to write content
+   span is a tag used to write content in same line
+
+6. syntax for creating list
+   ordered list
+   <ol>
+   <li></li>
+   </ol>
+   Unordered list
+   <ul>
+   <li></li>
+   </ul>
+
+7. create table with 5 headings and data
+     <table >
+      <tr>
+      <th>Schools</th>
+      <th>Location</th>
+      <th>Type</th>
+      <th>Pincode</th>
+       </tr>
+       <tr>
+      <td>Oxford</td>
+      <td>Sakleshpur</td>
+        <td>Primary</td>
+       <td>573134</td>
+      </tr>
+       <tr>
+      <td>St.Joseph</td>
+      <td>Hassan</td>
+       <td>Higher Primary</td>
+       <td>573201</td>
+        </tr>
+        <tr>
+        <td>Holy Mount</td>
+       <td>Banglore</td>
+       <td>Baby Sitting</td>
+     <td>578956</td>
+      </tr>
+      <tr>
+      <td>Pioneer</td>
+       <td>Sakleshpur</td>
+       <td>Higher School</td>
+        <td>573698</td>
+       </tr>
+       <tr>
+      <td>Rotary</td>
+       <td>Mysore</td>
+       <td>Primary</td>
+        <td>573506</td>
+       </tr>
+     </table>
+
+8. <form>
+        <div>
+        <label>Enter Name</label>
+         <input type="text" name="enterName" placeholder="Enter Name">
+         </div>
+         <div>        
+        <label>Enter Email</label>
+         <input type="email" name="enterEmail" placeholder="Enter Email">
+         </div>
+        <div>
+        <label>Enter DOB</label>
+         <input type="date" name="enterDOB" placeholder="Enter DOB">
+         </div>
+        <div>        
+        <label>Gender</label>
+         <input type="radio" name="gender">Male
+          <input type="radio" name="gender">Female
+          <input type="radio" name="gender">Others
+         </div>
+         <div>        
+        <label>Address</label>
+         <textarea type="address" name="address"></textarea>
+         </div>
+         
+         <div>
+        <label>Enter Password</label>
+        <input type="password" name="enterPassword" placeholder="Enter Password">
+        </div>
+
+        <div>
+        <button type="Submit">Register</button> 
+        <button type="Reset">Reset</button>
+        </div>
+
+9.  Special Symbols
+    <div> HTML&copy:2021</div>
+    <div> HTML&trade:2019</div>
+    <div> HTML&reg:2023</div>
+
+10.  Create image and HyperLink
+     <div>
+      <img src="Avengers.jpg">
+     </div> 
+
+     HyperLink
+     <div>
+      <a href="https//:Facebook.com>
+     </div>
+
+11.  Audio
+     <div> 
+      <audio src="kjbds.mp3>
+    </div>
+    
+    video
+    <div> 
+      <video src="kjbds.mp3>
+    </div>
+
+12.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
